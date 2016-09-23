@@ -1,6 +1,7 @@
 # AdvancedWidget2
 ## Screnschoot
 ![AdvancedWidget2](http://s17.postimg.org/5bzudz9wf/advancedwidget2.png)
+![AdvancedWidget2](http://s3.postimg.org/69m9c8hlv/advancedwidget2_2.png)
 
 ## Identitas
 Nama : Ahmad Dimas Abid Muttaqi <br>
